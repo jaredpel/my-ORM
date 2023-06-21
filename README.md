@@ -11,3 +11,7 @@ and added read me.
 - run index server.js
 - after that is done enter the url https://localhost:3001/api/ on insomnia 
 - there you can see and play with the code 
+ here is the video i did the get first then the post, put, update, delete
+
+https://github.com/jaredpel/my-ORM/assets/124024033/1cbaedbb-a850-4708-a5c2-9a5ae4e71090
+
